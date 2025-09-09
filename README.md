@@ -17,7 +17,7 @@ keeping your downloads, documents, and media files neatly arranged with minimal 
 
 ## Customization
 - You can add your own categories or file extensions by editing the _file_types_ dictionary.
-
+[Where to add your custom categories and extension](https://github.com/Reinald-Claudio/file-organizer/blob/main/Screenshot%202025-09-10%20072323.png?raw=true)
 
 ## How It Works
 - The program reads all files in the specified folder.
