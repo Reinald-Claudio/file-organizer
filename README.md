@@ -3,10 +3,10 @@ A simple Python tool for automatically organizing your files into folders based 
 keeping your downloads, documents, and media files neatly arranged with minimal effort.
 
 ## Features
-- Automatically categorizes files into folders like, **Images**, **Videos**, **Documents**, **Audio**, and more.
-- Supports custom categories; you can easily add your own file extentions.
+- Automatically categorizes files into folders like, Images, Videos, Documents, Audio, and more.
+- Custom categories; you can add your own file extentions.
 - Logs all actions to *organizer_log.txt*.
-- Keeps your directories clean and organized.
+- Keeps your directories clean.
 
 ## Setup and Usage
 1. Make sure you have **Python 3+** installed.
