@@ -59,8 +59,9 @@ def organize_folder(folder_path):
                     log_file.write(f"Uncategorized: {file.name}\n")
                     print(f"❓ Uncategorized: {file.name}")
 
-    print("\n🎉 Organization complete! Log saved at:", log_path)
+    print("\nOrganization complete! Log saved at:", log_path)
 
 if __name__ == "__main__":
     folder_input = input("Enter folder path to organize: ")
+
     organize_folder(folder_input.strip())
